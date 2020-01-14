@@ -1,0 +1,16 @@
+;; This is workspace comment file,
+;; setting whole the workspace for all projects of Tabuyos,
+;; only one workspace.tabuyos file per workspace,
+;; and each project has a .tabuyos.
+
+(:
+  workspace.tabuyos > .tabuyos
+:)
+
+encoding : utf-8
+dataformat : json
+request : get,post,put,delete
+response : json stream
+dateformat : timestramp
+cross : true
+compiler : Cmake
