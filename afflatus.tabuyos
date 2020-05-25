@@ -26,3 +26,7 @@ Afflatus 1.
 		Coding OEM modle.
 	WebHtml
 		Crawler.
+	TMock
+		the fake data for web application with mock data in visualization.
+	ProjectManager
+		commit debug, commit modify of project...
