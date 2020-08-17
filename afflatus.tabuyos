@@ -32,3 +32,6 @@ Afflatus 1.
 		commit debug, commit modify of project...
 	TGithub
 		Tabuyos' for mock github.com by java or common lisp
+Afflatus 2.
+	FSU
+		file segment upload by java and use multiple thread.
